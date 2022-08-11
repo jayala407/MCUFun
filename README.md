@@ -1,10 +1,5 @@
 
 # MCUFun
-code and samples for my microcontroller projects
-I'll add projects for Arduino and MicroPython
-projects will be stuff for Raspberry Pi , ESP32, Seeduino XIAO, and any other MCU I take a fancy to.
-=======
-# MCUFun 
-code and samples for my microcontroller projects 
-I'll add projects for Arduino and MicroPython
-projects will be stuff for Raspberry Pi , ESP32, Seeduino XIAO, and any other MCU I take a fancy to.
+Code and samples for my microcontroller projects. 
+I'll be adding projects for Arduino and MicroPython.
+Projects will be stuff for Raspberry Pi Pico, ESP32, Seeduino XIAO, and any other MCU I take a fancy to.
