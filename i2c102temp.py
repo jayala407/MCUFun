@@ -1,3 +1,10 @@
+# MicroPython driver for Sparkfun TMP102 board 
+# by Joe Ayala
+# GPL License
+# a blatent copy of the Arduino Driver on the Sparkfun GitHub
+# https://github.com/sparkfun/SparkFun_TMP102_Arduino_Library
+#
+
 from machine import Pin, I2C
 # constants
 global T102ADDR,registerByte,replaceByte,commandByte,CONFIG_REGISTER,T_LOW_REGISTER,T_HIGH_REGISTER  
